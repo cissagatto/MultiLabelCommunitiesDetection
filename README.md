@@ -1,2 +1,2 @@
-# MultiLabelCommunitiesDetection
-MultiLabelCommunitiesDetection
+# Multi-Label Communities Detection
+
